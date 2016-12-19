@@ -11,6 +11,8 @@ This is the first of many supplemental addendums to an annual email update I sen
 
 I'm using [Hugo](https://gohugo.io/), [AWS](https://aws.amazon.com/) (S3 and Cloudfront), and [Namecheap](https://www.namecheap.com/) to generate, publish and host my blog.
 
+You can see my [GitHub profile](https://www.github.com/sunisho) to see my Hugo source files.
+
 To learn Hugo and AWS, I went through a tutorial that had me build a bookshelf. I used that opportunity to feature all of the books I read in 2016.
 
 I read more books this year than I have in the past decade (around 35), and I attribute that to two things:
