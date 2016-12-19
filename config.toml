@@ -1,3 +1,27 @@
 baseurl = "https://shomedia.com/blog/"
-title = "Learning to Fly: Sunish's Blog"
+title = "Learning to Fly"
 languageCode = "en-us"
+paginate = "10"
+disqusShortname = "shomediablog"
+theme = "mainroad"
+
+[Author]
+
+name = "Sunish Oturkar"
+bio ="Sunish is a 30-something on a mission to find a mission."
+avatar = "images/sunish.jpg"
+
+[Params]
+
+subtitle = "Sunish's Blog"
+description = "A blog about everything"
+opengraph = true
+leftsidebar = false
+authorbox = true
+post_navigation = true
+
+[Params.widgets]
+search = true
+recent_articles = true
+categories = true
+tags = true

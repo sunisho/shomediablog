@@ -2,7 +2,7 @@
 draft = false
 date = "2016-12-19T15:21:17-05:00"
 title = "First Post: My 2016 Bookshelf"
-thumbnail = "images/bookshelf.jpg"
+thumbnail = "img/bookshelf.jpg"
 +++
 
 Consider this post the official resurrection of my blog.
@@ -30,7 +30,7 @@ This list, published on a website made by Hugo, is here:
 
 I'll include some of my favorite bookquotes and some of my thoughts on that website, and will continue to update it as I tackle more stories in 2017.
 
-## *MY FAVORITES*
+### *MY FAVORITES*
 
 1. The Rivers of London Series
 2. Animal Farm
