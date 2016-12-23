@@ -3,6 +3,10 @@ title = "16 Pounds: Quitting My Job and Traveling the World"
 draft = false
 date = "2016-12-19T16:13:39-05:00"
 thumbnail = "img/mapSFtoHanoi.png"
+categories = [ "Life Updates"
+]
+tags = ["Travel", "SE Asia", "Europe"
+]
 +++
 
 At the end of January in 2016, I quit my job. <a href="/blog/img/backpack.jpg" target="blank"><img style="float: right; padding:5px;" src="/blog/img/backpack.jpg" width="250"></a> Two months later, I hit the road with nothing but a normal backpack weighing just over 16 pounds.

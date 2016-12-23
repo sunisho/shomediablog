@@ -3,6 +3,10 @@ draft = false
 date = "2016-12-19T15:21:17-05:00"
 title = "First Post: My 2016 Bookshelf"
 thumbnail = "img/bookshelf.jpg"
+categories = [ "Life Updates"
+]
+tags = ["Books", "Web Development"
+]
 +++
 
 Consider this post the official resurrection of my blog.
