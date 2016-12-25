@@ -1,4 +1,4 @@
-baseurl = "https://shomedia.com/blog/"
+baseurl = "https://www.shomedia.com/blog/"
 title = "Learning to Fly"
 languageCode = "en-us"
 paginate = "10"
