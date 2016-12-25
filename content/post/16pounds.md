@@ -9,7 +9,7 @@ tags = ["Travel", "SE Asia", "Europe"
 ]
 +++
 
-At the end of January in 2016, I quit my job. <a href="/blog/img/backpack.jpg" target="blank"><img style="float: right; padding:5px;" src="/blog/img/backpack.jpg" width="250"></a> Two months later, I hit the road with nothing but a normal backpack weighing just over 16 pounds.
+At the end of January in 2016, I quit my job. <img style="float: right; padding:5px;" src="/blog/img/backpack.jpg" width="250"> Two months later, I hit the road with nothing but a normal backpack weighing just over 16 pounds.
 
 The original plan, it should be stated, was nothing near what actually transpired. I was to take a break no longer than two months, and promptly find a new place of employment by the time Spring ushered Wintered out of its temporary throne.
 
@@ -63,16 +63,16 @@ I don't have favorites, but I do have highlights - below are just some of them:
 And of course..
 
 #### **Meeting friends and family in Vietnam, Thailand, Burma, Switzerland, Italy, Portugal, London and Ireland**<br>
-<img src="/blog/img/alix-hanoi.jpg" width="250" style="padding:5px">
-<img src="/blog/img/tee-bangkok.jpg" width="250" style="padding:5px">
-<img src="/blog/img/hbs-bangkok.jpg" width="250" style="padding:5px">
-<img src="/blog/img/ben-switzerland.jpg" width="250" style="padding:5px">
-<img src="/blog/img/sophie-firenze.jpg" width="250" style="padding:5px">
+<img src="/blog/img/alix-hanoi.jpg" width="356" style="padding:5px">
 <img src="/blog/img/kayvan-yangon.jpg" width="200" style="padding:5px">
-<img src="/blog/img/braden-firenze.jpg" width="200" style="padding:5px">
-<img src="/blog/img/justine-lisbon.jpg" width="300" style="padding:5px">
-<img src="/blog/img/mom-porto.jpg" width="500" style="padding:5px">
-<img src="/blog/img/crawford-london.jpg" width="250" style="padding:5px">
-<img src="/blog/img/samir-dublin.jpg" width="250" style="padding:5px">
-<img src="/blog/img/aoife-dublin.jpg" width="200" style="padding:5px">
-<img src="/blog/img/tristan-london.jpg" width="300" style="padding:5px">
+<img src="/blog/img/tee-bangkok.jpg" width="277" style="padding:5px">
+<img src="/blog/img/hbs-bangkok.jpg" width="277" style="padding:5px">
+<img src="/blog/img/ben-switzerland.jpg" width="567" style="padding:5px">
+<img src="/blog/img/sophie-firenze.jpg" width="275" style="padding:5px">
+<img src="/blog/img/braden-firenze.jpg" width="275" style="padding:5px">
+<img src="/blog/img/justine-lisbon.jpg" width="275" style="padding:5px">
+<img src="/blog/img/samir-dublin.jpg" width="275" style="padding:5px">
+<img src="/blog/img/mom-porto.jpg" width="567" style="padding:5px">
+<img src="/blog/img/crawford-london.jpg" width="210" style="padding:5px">
+<img src="/blog/img/aoife-dublin.jpg" width="120" style="padding:5px">
+<img src="/blog/img/tristan-london.jpg" width="210" style="padding:5px">

@@ -31,14 +31,14 @@ I read a mix of fiction and non-fiction, with an emphasis on the former, and an 
 
 This list, published on a website also made by Hugo, is here:
 
-## <a href="https://shomedia.com/blog/bookshelf/" target="blank">My 2016 Bookshelf</a>
+## <a href="/blog/bookshelf/" target="blank">My 2016 Bookshelf</a>
 
 I've included some of my favorite bookquotes and some of my thoughts within each book post on that website, and will continue to update it as I tackle more stories in 2017.
 
 ##### *Some of my favorite reads from 2016*
 
-1. <a href="https://shomedia.com/blog/bookshelf/post/rivers-of-london/" target="blank">The Rivers of London Series</a>
-2. <a href="https://shomedia.com/blog/bookshelf/post/animal-farm/" target="blank">Animal Farm</a>
-3. <a href="https://shomedia.com/blog/bookshelf/post/endurance/" target="blank">Endurance</a>
-4. <a href="https://shomedia.com/blog/bookshelf/post/peter-and-wendy/" target="blank">Peter and Wendy</a>
-5. <a href="https://shomedia.com/blog/bookshelf/post/boys-in-the-boat/" target="blank">The Boys in the Boat</a>
+1. <a href="/blog/bookshelf/post/rivers-of-london/" target="blank">The Rivers of London Series</a>
+2. <a href="/blog/bookshelf/post/animal-farm/" target="blank">Animal Farm</a>
+3. <a href="/blog/bookshelf/post/endurance/" target="blank">Endurance</a>
+4. <a href="/blog/bookshelf/post/peter-and-wendy/" target="blank">Peter and Wendy</a>
+5. <a href="/blog/bookshelf/post/boys-in-the-boat/" target="blank">The Boys in the Boat</a>
