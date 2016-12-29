@@ -7,7 +7,7 @@ thumbnail = "/blog/img/open-road.jpg"
 title = "My Current Job Search"
 description = ""
 date = "2016-12-23T16:55:32-05:00"
-draft = true
+draft = false
 +++
 
 It's coming up on 11 months since I quit my job at Anheuser Busch.
