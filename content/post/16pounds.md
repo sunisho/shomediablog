@@ -43,9 +43,11 @@ http://bit.ly/sunishbackpacking2016
 3. **What the world thinks of the US matters.** We have a tremendous impact on the world around us, and we cannot neglect the subsequent responsibility that comes with it.
 
 
-## Highlights
+## No Favorites, Lots of Highlights
 
-I don't have favorites, but I do have highlights - below are just some of them:
+I don't have favorites, but I do have highlights - below are just some of them. There is so much more I could write about, but I'd rather tell you about it in person. For now, use this blog post as a sufficient teaser.
+
+### MY HIGHLIGHTS
 
 #### **A two-wheeling roadtrip through the mountains of Ha Giang in Northern Vietnam**<br>
 <img src="/blog/img/ha-giang.jpg" width="400">

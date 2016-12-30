@@ -12,11 +12,11 @@ title = "Mera Bharat Mahan: My 2016 Visit to India"
 
 Just two days after the election, I followed through on what could have been construed as a much needed escape plan and flew to India. Truth be told I would have gotten on that plane even if our country didn't elect a budding despot as our Commander in Chief.
 
-This trip, the sixth in the course of my life, was to witness the long awaited and much anticipated wedding of my niece Iya and her long-time boyfriend Nikunj.
+This trip, the sixth in my life, was to witness the wedding of my niece Iya and her long-time boyfriend Nikunj.
 
 ### <a href="http://bit.ly/sunishindia2016" target="blank">Click for full photo album</a>
 
-I had been to many Indian weddings in the States, but this was the first one I had attended in India that I would actually remember. The only other time I had this pleasure was when Iya's mother, my Didi, got married 28 years earlier. Being only two years old, the only memories I have of that are reflections of the stories and pictures that resulted.
+I had been to many Indian weddings in the States, but this was the first one I had attended in India that I would actually remember. The only other time I had this pleasure was when Iya's mother, my Didi, got married 28 years earlier. Having been only two years old, I only remember what people tell me.
 
 ## `#NIKISH`
 
@@ -37,19 +37,19 @@ Mehndi, or Hennah, is applied to the women that temporarily decorates their skin
 </center>
 
 #### Day 3 - Vyahi Bhojan
-The first formal meeting of the bride and groom's families, over a very formal dinner. This was more banquet than anything else, and I guess the theme was "Loud AF." One guy had a tie made up of golden mirrors. I have no idea how many karats, before you ask. The night ended with a piano bar sing along, but instead of Western classics like Piano Man and Hotline Bling, it was all Hindi songs. I sat politely, nodded my head, and smiled at the right moments.
+The bride and groom's families meet for the first time, over a very formal dinner. This was more banquet than anything else, and the theme was apparently "Loud AF." One guy had a tie made up of triangular golden mirrors stitched together, reflecting what could only be the bewildered expressions by everyone that noticed. The night ended with a piano bar sing along, but instead of Western classics like Piano Man and Hotline Bling, it was all Hindi songs. I sat politely, nodded my head, and smiled at the right moments.
 <center>
 <img src="/blog/img/bhojan-01.jpg" width="570" style="padding:5px;">
 </center>
 
 #### Day 4 - Welcoming the Guests & Sangeet
 
-The families welcome the guests with much fanfare. In the US, we have one dhol player that ushers the groom on his final descent from bachelorhood. At this wedding, there were four dhol players that made every arriving guest feel like Amitabh Bhachan.
+The families welcome the guests with much fanfare. In the US, we have one dhol player that ushers the groom on his final descent from bachelorhood. At this wedding, there were four dhol players that made every arriving guest - from the most cherished friend to that random auntie that no one really knew - feel like a Bollywood superstar.
 <center>
 <img src="/blog/img/dhols.jpg" width="570" style="padding:5px;">
 </center>
 
-At night was the Sangeet. In a Sangeet, all who wish to display their affection for the bride and groom do so by a display of song and dance. This serves as much as a reception as the traditional western party that follows the wedding ceremony. In this wedding, Iya and Nikunj also did their own routine, literally setting off fireworks. The entire series of dances took over 30 minutes and every second was pre-planned. This dance rivaled that of the typical college Indian culture show - a stage, professional lights, a professional choreographer, smooth transitions, and pyrotechnics that would just never end. Afterwards, everyone got down in a dance party that didn't stop until the morning came. I "fell asleep" on a hammock next to the pool and was woken up a few hours later covered in mosquito bites.
+At night was the Sangeet. In a Sangeet, all who wish to display their affection for the bride and groom do so by a display of song and dance. This often times serves as the reception in lieu of the traditional post-ceremony western party. In this Sangeet, Iya and Nikunj also did their own performance, literally setting off fireworks. The entire series of dances took over 30 minutes and every second was pre-planned. This dance rivaled that of the typical college Indian culture show - a stage, professional lights, a professional choreographer, smooth transitions, and pyrotechnics that would just never end. Afterwards, everyone got down on the dance floor in a party that didn't stop until the morning came.
 <center>
 <img src="/blog/img/sangeet.jpg" width="570" style="padding:5px;">
 </center>
@@ -60,7 +60,7 @@ During the day, guests were treated to a garden picnic, complete with a multi-cu
 <img src="/blog/img/picnic.jpg" width="570" style="padding:5px;">
 </center>
 
-At night was the grand finale - the wedding ceremony. I, along with Iya's three other Mamas (or Uncles), had the privilege of walking her down the aisle under a flower canopy. We even got to wear the typical wedding turban. The bride and groom went through a two hour ritual on the altar, and then - after our side hijacked the Nikunj's foot (in lieu of stealing his shoe, given we utterly failed at that) and extorted him for money - ate their first meal together surrounded by the groom's, and at that moment onwards, the bride's, family.
+At night was the grand finale - the wedding ceremony. I, along with Iya's three other Mamas (Uncles), had the privilege of walking her down the aisle under a flower canopy. We even got to wear the typical wedding turban. The bride and groom went through a two hour ritual on the altar, and then - after our side hijacked the Nikunj's foot (in lieu of <a href="http://thebigfatindianwedding.com/2014/joota-chupai-the-shoe-stealing-indian-wedding" target="blank">stealing his shoe</a>, given we utterly failed at that) and extorted him for money - ate their first meal together surrounded by the groom's, and at that moment onwards, the bride's, side of family.
 <center>
 <img src="/blog/img/ceremony-01.jpg" width="570" style="padding:5px;">
 </center>
@@ -69,16 +69,15 @@ At night was the grand finale - the wedding ceremony. I, along with Iya's three 
 </center>
 
 #### Day 6 - Bidaai
-The morning after, the bride's side came together to wish a final farewell to Iya as she took her place in Nikunj's family. Like many aspects of this wedding, this was more ceremonial than anything else. The Bidaai had more practicality back in the days when the women would often actually not see their birth family for years after the wedding. Nowadays that particular custom has reduced dramatically, leaving behind only the wedding ritual.
+The morning after, the bride's side came together to wish a final farewell to Iya as she took her place in Nikunj's family. Like many aspects of this wedding, this was more ceremonial than anything else. The Bidaai had more practicality back in the days when the women would actually not see their birth family for years after the wedding. Nowadays that particular societal norm is all but extinct, leaving behind only the wedding ritual.
 <center>
 <img src="/blog/img/bidaai.jpg" width="570" style="padding:5px;">
 </center>
 
-And with that, we come to a close. Iya is now an Agarwal, and I am now ten pounds heavier.
+And with that, we come to a close. Iya had become an Agarwal, and I had become ten pounds heavier.
 
 ### <a href="http://bit.ly/sunishindia2016" target="blank">Click for full photo album</a>
 
-Be sure to peruse through the pictures to get all the visuals. Take some time to watch the short video clips. Be warned that they were taken more as a way to jog my own memory than to sufficiently catalog the event for all of you who could not attend - most of the videos are 30 seconds or less. I got chastised by Iya's mom for not taking longer recordings, so, you can save your breath.
 
 ## A New Normal - Saying Goodbye to Mothiaai
 
@@ -104,13 +103,13 @@ After making the rounds with the family, I ventured out to the South and explore
 <img src="/blog/img/chennai.jpg" width="560">
 </center>
 
-For the first week, I flew to Chennai, and made my way through Pondicherry, and Auroville. I think I would have appreciated it all more had I stayed a bit longer. There was something about Chennai that just rubbed me the wrong way. It wasn't just the fast, noisy, city life - that kind of chaos and crowd is there in Bombay too, and the latter still has a charm that I didn't find in the former. That soul that seems so vibrant in Bombay was at best hidden from my view and at worst not at all existent in Chennai. I'd be surprised if I there isn't one of you reading this who vehemently disagrees. I guess the onus is on you to prove me wrong the next time around.
+For the first week, I flew to Chennai, and made my way to Pondicherry and Auroville. I think I would have appreciated it all more had I stayed a bit longer. There was something about Chennai that just rubbed me the wrong way. It wasn't just the fast, noisy, city life - that kind of chaos and crowd is there in Bombay too, and the latter still has a charm that I didn't find in the former. That soul that seems so vibrant in Bombay was at best hidden from my view and at worst not at all existent in Chennai. I'd be surprised if there isn't at least one of you reading this who vehemently disagrees. The onus is on you to prove me wrong.
 
 <center>
 <img src="/blog/img/pondy.jpg" width="580" style="padding:5px;">
 </center>
 
-I think I would have enjoyed Pondy more had I not spent so much time in New Orleans. They are different, to be sure, but with just enough similarity that being in Pondicherry just made me miss the Big Easy. They are both former French colonies that sit on the water. The gridded street plan, the architecture, the cafes and the relative pace of life were all reminiscent of New Orleans, yet not so much that so to exceed my experience.
+I think I would have enjoyed Pondy more had I not spent so much time in New Orleans. They are different, to be sure, but with just enough similarity that being in Pondicherry just made me miss the Big Easy. They are both former French colonies that sit on the water - the gridded street plan, the architecture, the cafes and the relative pace of life were all reminiscent of New Orleans, yet not so much that so to exceed my experience.
 
 If I do come back, I'll likely stay on a farm in Auroville, and for no shorter than a week. This time around I was only able to visit the famous Matrimandir, and even at that was only able to observe the outside from a distance.
 
@@ -118,7 +117,7 @@ If I do come back, I'll likely stay on a farm in Auroville, and for no shorter t
 <img src="/blog/img/auroville.jpg">
 </center>
 
-For those who don't know, it's a Utopian society. The founder, the Mother of the nearby ashram, wanted to build a community that was self sustaining and accepting of people from all backgrounds and faiths. No one owns property, and there is no exchange of currency - everyone contributes to the community in some productive manner and works together to ensure all inhabitants are provided for. All food is grown within the community itself, and all power is generated on site. There is no reliance to the outside world, other than perhaps the use of communication mediums like the telephone and internet. I could be wrong here, but this is actually the closest I've seen a functioning society achieve a true form of communism. Someone please challenge me on that, but as Marx wrote, "the theory of Communists can be summed up in the single sentence, Abolition of private property." To be clear, I will not venture to make any sort of claim of merit for this way of living, but it would be fascinating to experience it, even if for just a few days.
+For those who don't know, it's a Utopian society. The founder, the Mother of the nearby ashram, wanted to build a community that was self sustaining and accepting of people from all backgrounds and faiths. No one owns property, and there is no exchange of currency - everyone contributes to the community in some productive manner and works together to ensure all inhabitants are provided for. All food is grown within the community itself, and all power is generated on site. There is no reliance to the outside world, other than perhaps the use of communication mediums like the telephone and internet. I could be wrong here, but this is actually the closest I know of a functioning society achieve a true form of communism. Someone please challenge me on that, but as Marx wrote, "the theory of Communists can be summed up in the single sentence, Abolition of private property."
 
 
 ## Mysore
@@ -127,7 +126,7 @@ For those who don't know, it's a Utopian society. The founder, the Mother of the
 <img src="/blog/img/mysore.jpg">
 </center>
 
-From Chennai I took an overnight sleeper train to Mysore. As soon as I stepped foot off of the station, I knew I would like this city. The air felt clearer, the streets less congested, and the and the people much warmer to their fellow passerbys. That soul that was missing from Chennai was vibrant and loud in Mysore. Though I only spent three days, I knew I could easily spend three months. I stayed at a hostel called Sonder northwest of the city center. I made fast friends with most of the hostel guests, and in particular connected really well with one of the volunteers, Brina, that had been working there for the past month. I went running around a beautiful lake just a mile away, saw the sun set from a temple on the nearby overlooking hill, visited the Mysore Palace and the Gardens, ate a fair share of classic South Indian fare (the open benne dosa at the nearby Dosa Point was one of my favorite meals I had my entire trip), picked up 2.5 kilograms of the highly popular sweet Mysore Pak, rode shotgun in a rickshaw, and still managed to get several hours of rest & relaxation.  
+From Chennai I took an overnight sleeper train to Mysore. As soon as I stepped foot off of the station, I knew I would like this city. The air felt clearer, the streets less congested, and the people much warmer to their fellow passerbys. That soul that was missing from Chennai was vibrant and loud in Mysore. Though I only spent three days, I knew I could easily spend three months. I stayed at a hostel called <a href="http://www.sonderhostel.com/" target="blank">Sonder</a> northwest of the city center. I made fast friends with most of the hostel guests, and in particular connected really well with one of the volunteers, Brina, that had been working there for the past month. Brina and I went running around a beautiful lake just a mile away to join in on <a href="http://www.ubakaurwanda.org/" target="blank">Ubaka U Rwanda</a>'s annual Rafiki Run. I also saw the sun set from a temple on the nearby overlooking hill, visited the Mysore Palace and the Gardens, ate a fair share of classic South Indian fare (the open benne dosa at the nearby Dosa Point was one of my favorite meals I had my entire trip), picked up 2.5 kilograms of the highly popular sweet Mysore Pak, rode shotgun in a rickshaw, and still managed to get several hours of rest & relaxation.  
 
 <center>
 <img src="/blog/img/mysore-rickshaw.jpg" width="560" style="padding:5px;">
@@ -135,13 +134,13 @@ From Chennai I took an overnight sleeper train to Mysore. As soon as I stepped f
 
 ## Coorg
 
-From Mysore I took a bus west to Madikeri, the central hub of a beautiful region called Coorg. Coorg is known for its rolling green hills covered in coffee plantations. Little did I know that India produced a lot of its own coffee. I was in Madikeri on a holding pattern waiting for my cousin Swati and her husband Sid to meet me in a nearby town called Virajpet. They had won a free stay at a resort 10km away from the town center and invited me to join them. I came to Madikeri a day early to do some exploring on my own... and honestly I wish I had stayed in Mysore an extra day instead. There is not much in Madikeri - it's a hill station that's become too crowded for its own good. I didn't do much other than walk around, dodge traffic, and drink coffee. I guess there's some charm to that sort of simple itinerary, I just wish I did it in a different place.
+From Mysore I took a bus west to Madikeri, the central hub of a beautiful region called Coorg. Coorg is known for its rolling green hills covered in coffee plantations. Little did I know that India produced a lot of its own coffee. I was in Madikeri on a holding pattern waiting for my cousin Swati and her husband Sid to meet me in a nearby town called Virajpet. They had won a free stay at a resort 10km away from the town center and invited me to join them. I came to Madikeri a day early to do some exploring on my own... and honestly I wish I had stayed in Mysore an extra day instead. There is not much in Madikeri - it's a hill station that's become too crowded for its own good. I didn't do much other than walk around, dodge traffic, and drink coffee. There is some charm to that sort of simple itinerary, I just wish I did it in a different place.
 
 <center>
 <img src="/blog/img/coorg-01.jpg" width="275" style="padding:5px;"><img src="/blog/img/coorg-02.jpg" width="275" style="padding:5px;">
 </center>
 
-But 24 hours later Swati and Sid picked me up in their taxi on the way to the resort. While the resort itself wasn't our cup of tea, the few days we spent together were another highlight of my year. The three of us connected on a great number of things, sharing a similar view on many facets of our life. This doesn't happen often with my family, so it was a nice change of pace. And while the all-inclusive resort was designed for families that wanted more of a get away than for young travelers looking for an adventure, we made do with our own excursion. We ventured into nearby villages and made friends with some local shop owners - one of them ran a coffee mill. We hitched a ride on the back of a pickup and ate lunch at a no-frills restaurant recommended to us by the local who sold us coffee grounds at a small trading post. The resort did have a really nice tour of their own coffee plantation - the guide gave us the basics and more of coffee making. I now know the difference between Arabica and Robusta coffee beans - can someone please get me a gold star!?
+24 hours later Swati and Sid picked me up in their taxi on the way to the resort. While the resort itself wasn't our cup of tea, the few days we spent together were another highlight of my year. The three of us connected on a great number of things, sharing a similar view on many facets of our life. This doesn't happen often with my family, so it was a nice change of pace. And while the all-inclusive resort was designed for families that wanted more of an effortless get-away than for young travelers looking for an adventure, we made do with our own excursion. We ventured into nearby villages and made friends with some local shop owners - one of them ran the village's coffee mill. We hitched a ride on the back of a pickup and ate lunch at a no-frills restaurant recommended to us by the local who sold us coffee grounds at a small trading post. The resort did have a really nice tour of their own coffee plantation - the guide gave us the basics and more of coffee making.
 
 All in all, as with the general theme of my adventure, I'd like to come back and spend some more time in Coorg.
 
