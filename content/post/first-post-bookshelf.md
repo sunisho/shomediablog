@@ -20,7 +20,7 @@ To get started with Hugo, Git, and AWS, I went through a tutorial that had me bu
 
 ## A Reading Renaissance
 
-I read more books this year than I have in the past decade (around 35), and I attribute that to two things:
+I read more books this year than I have in the past decade (37 at last count), and I attribute that to two things:
 
 1. **Unemployment**, and
 2. **The Amazon Kindle**
@@ -35,10 +35,13 @@ This list, published on a website also made by Hugo, is here:
 
 I've included some of my favorite bookquotes and some of my thoughts within each book post on that website, and will continue to update it as I tackle more stories in 2017.
 
+I've also started to maintain my profile on <a href="http://www.goodreads.com/sunish" target="blank">Goodreads</a>. Connect with me on there!
+
 ##### *Some of my favorite reads from 2016*
 
 1. <a href="/blog/bookshelf/post/rivers-of-london/" target="blank">The Rivers of London Series</a>
 2. <a href="/blog/bookshelf/post/animal-farm/" target="blank">Animal Farm</a>
-3. <a href="/blog/bookshelf/post/endurance/" target="blank">Endurance</a>
-4. <a href="/blog/bookshelf/post/peter-and-wendy/" target="blank">Peter and Wendy</a>
-5. <a href="/blog/bookshelf/post/boys-in-the-boat/" target="blank">The Boys in the Boat</a>
+3. <a href="/blog/bookshelf/post/the-book-thief/" target="blank">The Book Thief</a>
+4. <a href="/blog/bookshelf/post/endurance/" target="blank">Endurance</a>
+5. <a href="/blog/bookshelf/post/peter-and-wendy/" target="blank">Peter and Wendy</a>
+6. <a href="/blog/bookshelf/post/boys-in-the-boat/" target="blank">The Boys in the Boat</a>

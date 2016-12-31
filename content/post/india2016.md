@@ -83,21 +83,24 @@ And with that, we come to a close. Iya had become an Agarwal, and I had become t
 
 After the wedding I spent several days with my mom visiting family on both hers and my Dad's side. We stayed in Bombay for two nights and then headed to Pune for a few more. This was the routine I was used to when coming to India. House to house and family to family, catching each other up on all the things that have gone on in the three years since we last met.
 
-There was one major, solemn difference this time around. My Dad's mother had unfortunately passed away not a month prior. This was the first time I was in India without the guiding hand of my grandmother, my Mothiaai.
+There was one major, solemn difference this time around. In a whirlwind that came as quickly as it left, my grandmother Mothiaai fell sick and passed away in October. My Dad had the fortune of being by her side during her final days, but I had missed her by only a few weeks. This was a tough loss for our family, and one that happened a bit unexpectedly given how healthy she was even through August.
+
 <center>
 <img src="/blog/img/mothiaai.jpg" width="550" style="padding:5px;">
 </center>
 
- Walking into her flat in Pune was a bit of a weary experience. It was a home filled with memories and mementos, yet with an emptiness that will now never fade. She had lived a long, fulfilled life - one that warrants celebration in place of the unavoidable mourning. She dedicated her days to curing people's ailments through homeopathic healing. In her free time, she traveled extensively - she had just planned a trip with one of my Dad's sisters to visit the Andaman Islands just before she got sick in September. If you've ever wondered where I inherited my wandering feet, look only at my Mothiaai.
+She had lived a long, fulfilled life - one that warrants true celebration. She dedicated her days to curing people’s ailments through homeopathic healing. In her free time, she traveled extensively - she had just planned a trip with one of my Dad’s sisters to visit the Andaman Islands just before she got sick in September. If you’ve ever wondered where I inherited my wandering feet, look only at my Mothiaai.
 
-Her passing was certainly a cloud that hung low over the trip, and in particular over the wedding. But, it forced us to start to establish a new sense of normal for when we visit India, even if we would have rather it remain the same.
+Her passing was certainly a cloud that hung low over my India trip. Walking into her home in Pune was a bit of a weary experience. It was a home filled with memories and mementos, yet with an emptiness that will now never fade.
+
+We'll miss you, Mothiaai.
+
 
 ## A Solo Adventure
 
 After making the rounds with the family, I ventured out to the South and explored a few cities and regions there for just under two weeks. This was another first for me - while I have traveled extensively on my own everywhere else in the world, this was the first time I had done so in India. Usually when I go to India, I'm kept on a bit of a leash. Pampered like a princess. Coddled like a child. No, not this time. This time I'd show everyone, I'd show myself, that I could handle myself in the chaos that is India. And that I did, with no trouble at all. I took local buses and local trains, ate at street stalls, stayed in hostels and hotels and resorts, rented two wheelers, and made it through it all without losing a single limb.
 
-
-## Chennai, Pondy, and Auroville
+### Chennai, Pondy, and Auroville
 
 <center>
 <img src="/blog/img/chennai.jpg" width="560">
@@ -120,7 +123,7 @@ If I do come back, I'll likely stay on a farm in Auroville, and for no shorter t
 For those who don't know, it's a Utopian society. The founder, the Mother of the nearby ashram, wanted to build a community that was self sustaining and accepting of people from all backgrounds and faiths. No one owns property, and there is no exchange of currency - everyone contributes to the community in some productive manner and works together to ensure all inhabitants are provided for. All food is grown within the community itself, and all power is generated on site. There is no reliance to the outside world, other than perhaps the use of communication mediums like the telephone and internet. I could be wrong here, but this is actually the closest I know of a functioning society achieve a true form of communism. Someone please challenge me on that, but as Marx wrote, "the theory of Communists can be summed up in the single sentence, Abolition of private property."
 
 
-## Mysore
+### Mysore
 
 <center>
 <img src="/blog/img/mysore.jpg">
@@ -132,7 +135,7 @@ From Chennai I took an overnight sleeper train to Mysore. As soon as I stepped f
 <img src="/blog/img/mysore-rickshaw.jpg" width="560" style="padding:5px;">
 </center>
 
-## Coorg
+### Coorg
 
 From Mysore I took a bus west to Madikeri, the central hub of a beautiful region called Coorg. Coorg is known for its rolling green hills covered in coffee plantations. Little did I know that India produced a lot of its own coffee. I was in Madikeri on a holding pattern waiting for my cousin Swati and her husband Sid to meet me in a nearby town called Virajpet. They had won a free stay at a resort 10km away from the town center and invited me to join them. I came to Madikeri a day early to do some exploring on my own... and honestly I wish I had stayed in Mysore an extra day instead. There is not much in Madikeri - it's a hill station that's become too crowded for its own good. I didn't do much other than walk around, dodge traffic, and drink coffee. There is some charm to that sort of simple itinerary, I just wish I did it in a different place.
 
@@ -144,7 +147,7 @@ From Mysore I took a bus west to Madikeri, the central hub of a beautiful region
 
 All in all, as with the general theme of my adventure, I'd like to come back and spend some more time in Coorg.
 
-## Bombay
+### Bombay
 
 <center>
 <img src="/blog/img/bombay.jpg" width="570" style="padding:5px;">
@@ -157,6 +160,7 @@ From Coorg, I made my way back to Bombay with a pitstop in Mangalore. I stayed a
 </center>
 
 Versova is a lovely neighborhood, very different from a lot of other parts of Bombay. It's along a beach, and probably the closest thing Bombay has to a Venice Beach or Santa Monica. For my last day in India, I walked around Versova, frequenting a couple cafes and visiting the beach. That night, I had dinner with another cousin Kavisa and then headed to the airport.
+
 
 ## Mera Bharat Mahan
 

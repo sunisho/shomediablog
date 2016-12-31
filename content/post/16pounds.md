@@ -25,16 +25,14 @@ One thing led to another and that six weeks turned into eighteen.
 
 I spent 11 weeks traveling through Vietnam, Cambodia, Thailand, and Myanmar.
 
+![Where I visited in SE Asia](/blog/img/SE-Asia-Starred Places.png)
+
 I spent the remaining 7 weeks in Europe, seeing Sweden, Germany, Switzerland, Italy, Portugal, London, and Ireland.
 
-![Where I went in 2016](/blog/img/map-visited-places-2016.png)
+![Where I went in Europe in 2016](/blog/img/map-visited-places-europe-2016.png)
 
-(*That India trip came a few months after I came back to the States*)
 
-## Photos
-
-You can see all my photos here:
-http://bit.ly/sunishbackpacking2016
+### <a href="http://bit.ly/sunishbackpacking2016" target="blank">Click for full photo album</a>
 
 ## What I took away
 
