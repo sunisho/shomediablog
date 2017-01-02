@@ -4,6 +4,7 @@ languageCode = "en-us"
 paginate = "10"
 disqusShortname = "shomediablog"
 theme = "mainroad"
+googleAnalytics = "UA-89637785-2"
 
 [Author]
 
