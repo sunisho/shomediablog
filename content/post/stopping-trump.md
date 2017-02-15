@@ -20,6 +20,8 @@ In many conversations with friends and family, I hear that lots of people want t
 
 The below is a living compilation of the resources and mental tools I use to remain engaged, effective, and optimistic.
 
+<b>It might seem like a lot, but with a quick skim, you'll realize that it doesn't take much to become an active citizen.</b>
+
 This is a living document, help me improve it! There are lots of other groups, tools, newsletters, articles, and resources, so please send me a note if I've missed something!
 
 
@@ -30,7 +32,8 @@ This is a living document, help me improve it! There are lots of other groups, t
 
 Below are groups & email lists that will keep you informed on how you can help.
 
-* <a href="https://www.indivisibleguide.com/" target="blank">Indivisible</a> <br>A practical guide and a directory of local action groups.</a>
+* <a href="https://www.indivisibleguide.com/" target="blank">Indivisible</a> <br>Indivisible is a practical guide and a directory of local action groups.</a>
+* <a href="https://www.meetup.com/pro/resist/" target="blank">Meetup's #Resist Group Finder</a><br>Hundreds of groups are organizing through Meetup.com. Find one close to you!
 * <a href="https://www.womensmarch.com/100/" target="blank">Women's March 10 Actions in 100 Days</a><br>10 actions to follow the nation-wide protests.
 * <a href="https://activatedmajority.tumblr.com/" target="blank">Activated Majority</a><br>From Rhize, a platform that connects people across the country with ongoing and emerging opportunities to take action and build power
 
@@ -42,17 +45,17 @@ Below are groups & email lists that will keep you informed on how you can help.
 In general, here's a brief list of things you can do that actually make a difference:
 
 * <b>Call your Members of Congress</b> - This actually works. Congressional staffers tally up the calls they get and convey those tallies to your Senators & representatives. For every call you don't make, you can be sure there's someone who disagrees with you that is making that call. Check out 5calls below for an easy way to get started.
-* <b>Attend a meeting</b> - meet face to face with engaged citizens that live around you. It'll be much more fulfilling than just trying to get more social media likes. See the Indivisible Guide for a directory of groups organizing near you.
+* <b>Attend a community meeting near you</b> - meet face to face with engaged citizens that live around you. It'll be much more fulfilling than just trying to get more social media likes. See Step 1 above for links that can help you find a group near you.
 * <b>Join a protest</b> - Protests and marches aren't necessarily about changing the minds of our Administration. The biggest benefit is a showing of solidarity to everyone affected. It can also show the world that we don't agree with our President and his policies.
 * <b>Have a conversation with a Trump supporter</B> - The point here is not to influence, but to understand and connect. You're not going to agree, and you will get angry, but ignoring the half of the country that voted for him won't work either. I'm not saying make best friends with an alt-right neo-nazi, but maybe make amends with that person who was simply more afraid of Hillary than she was of Trump.
-* <b>Get Local</b> - reach out to your State-level Representative & Senator. There is a lot you can do to protect your community at a local level from Trump's destructive federal policies.
+* <b>Get Local</b> - Get involved in your local community around causes you care about. As policy and funding starts affecting our local organizations, it's going to be important for all of us to get involved at the ground level. There is a lot you can do to protect your own community from Trump's destructive federal policies. One great first step is reaching out to your State-level Representative & Senator.
 
 ### Remember: you can still be angry without holding a grudge.
 
 Below are some resources to help figure out what to act on and how.
 
-* <a href="http://inspiredjen.com" target="blank">Jen Hoffmann's Weekly Action Guide</a><br>This is a fantastic weekly email that Jen sends out to over 60,000 people each week. It walks you through everything you can do to act on the issues you care about. Pick one thing and do it. <br><br><a href="https://docs.google.com/document/d/13vwydGGW9jixSsf3f7jvSuWnc67tsnI1jgIo6Homwbk/preview" target="blank">Here</a> is the latest checklist.<br><br>
-* <a href="https://5calls.org" target="blank">5Calls</a><br>There is no better tool to help you call your Members of Congress. Visit the website, put in your zip code, and pick your issue. It gives you the number you need to call, the message, and moves you onto the next. You can do one of these calls each week.
+* <a href="https://jenniferhofmann.com/home/weekly-action-checklist-democrats-independents-republicans-conscience/" target="blank">Jen Hofmann's Weekly Action Guide</a><br>Jen Hofmann writes blogs and helps small businesses with social media. She also curates a fantastic weekly email that walks over 60,000 subscribers through everything we can do to act on the issues we care about. <br><br><b>Join Jen's email list and each week, pick one action and do it.</b><br><br> <i><a href="https://docs.google.com/document/d/13vwydGGW9jixSsf3f7jvSuWnc67tsnI1jgIo6Homwbk/preview" target="blank">Here</a> is the checklist for the week of February 12, 2017.</i><br><br>
+* <a href="https://5calls.org" target="blank">5Calls</a><br>There is no better tool to help you call your Members of Congress. Visit the website, put in your zip code, and pick your issue. It gives you the number you need to call, the message, and moves you onto the next. You can do one of these calls each week.<br><br><b>Visit 5calls.org each week and pick one issue to call your Members of Congress about.</b>
 
 
 # STEP 3: GET OFF SOCIAL MEDIA.
@@ -71,17 +74,18 @@ I try to avoid the endless scroll through a newsfeed, and try to divert my energ
 
 Below are some resources that will help you gain a foundational understanding of how to be more effective as an active citizen:
 
-* <a href="https://www.indivisibleguide.com/resources">Indivisible Guide</a><br>How to effectively lobby your Members of Congress.
-* <a href="https://www.facebook.com/beth.urie/posts/1397279370324677">Don't Email. Don't Sign Petitions.</a><br>Call. Meet In Person. More thoughts on how to effectively lobby your Members of Congress.
-* <a href="https://docs.google.com/document/d/1oWD2OGMhKIL6wSxKsk_gSFCJtnH2RYpCJTXxlFaLkS8/edit" target="blank">The Resistance Doctrine</a>
+* <a href="https://www.indivisibleguide.com/resources">The Indivisible Guide</a><br>How to effectively lobby your Members of Congress.
+* <a href="https://www.facebook.com/beth.urie/posts/1397279370324677">Don't Email. Don't Sign Petitions.</a><br>Call or meet in person. More thoughts on how to effectively lobby your Members of Congress.
+* <a href="http://www.attn.com/stories/12951/former-staffer-explains-how-call-your-representatives">Former Staffer Explains How To Call</a><br>Key takeaways: Know your message before going in, and be patient and kind.
+* <a href="https://docs.google.com/document/d/1oWD2OGMhKIL6wSxKsk_gSFCJtnH2RYpCJTXxlFaLkS8/edit" target="blank">The Resistance Doctrine</a><br>A collection of more links and resources that will help you get engaged.
 
 
 # STEP 5: STAY INFORMED.
 
 In addition to the above (Jen Hoffman, Indivisible, etc), here are some resources to help curate the news for you, so you don't have to waste hours scrolling through Facebook or watching CNN:
 
-* <a href="https://whatthefuckjusthappenedtoday.com/" target="blank">What The Fuck Just Happened Today</a> (Daily Newsletter)
-* <a href="https://projects.fivethirtyeight.com/congress-trump-score/votes/" target="blank">FiveThirtyEight's Congress Tracker</a>
+* <a href="https://whatthefuckjusthappenedtoday.com/" target="blank">What The Fuck Just Happened Today</a><br>A daily newsletter that recaps the day's current events so you never miss a beat.
+* <a href="https://projects.fivethirtyeight.com/congress-trump-score/votes/" target="blank">FiveThirtyEight's Congress Tracker</a><br>Even though they failed miserably at predicting the election, FiveThirtyEight does have a great resource on keeping track of your Members of Congress.
 
 
 # STEP 6: KEEP YOUR CHIN UP.
@@ -92,12 +96,18 @@ As my friend Sergio once said:
 
 Don't let that happen. What we do does make a difference. What we've done already has. And what we plan to do will change things for the better.
 
+Below are some signs of progress:
+
 * <a href="https://www.facebook.com/peterpanpan/posts/10101790448498665" target="blank">10 Things We Did in January</a>
 * <a href="https://medium.com/the-coffeelicious/how-to-stayoutraged-without-losing-your-mind-fc0c41aa68f3#.8zbsrxbdl" target="blank">How to #StayOutraged Without Losing Your mind</a>
 * <a href="http://www.nbcnews.com/politics/first-read/humble-pie-trump-defeats-pile-three-weeks-n719281" target="blank">Trump's Defeats Pile Up</a>
 
 
 # STEP 7: SMILE.
+
+As my friend Samir says:
+
+##### "Always maintain your hope and positivity. Convert your anger to positive action and change."
 
 Here are some things that bring much needed levity to these heavy times:
 
