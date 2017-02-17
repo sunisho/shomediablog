@@ -4,11 +4,16 @@ tags = ["Trump", "Activism"
 thumbnail = "/blog/img/stop-trump.png"
 title = "Stopping Trump: A Primer"
 description = ""
-date = "2017-02-09T15:36:13-08:00"
+date = "2017-02-16T20:57:00-08:00"
 categories = ["Politics"
 ]
 draft = "false"
 +++
+
+#### ----
+#### <i>Update Log:</i>
+<i>February 16th: Updated with Swing Left & NDRC - Thanks Nate F!</i>
+#### ----
 
 There's been a storm of activity, both a constant bludgeoning of our core values by our sitting President, and the counter-insurgent response from We the People who do not accept his disastrous regime.
 
@@ -35,6 +40,7 @@ Below are groups & email lists that will keep you informed on how you can help.
 * <a href="https://www.indivisibleguide.com/" target="blank">Indivisible</a> <br>Indivisible is a practical guide and a directory of local action groups.</a>
 * <a href="https://www.meetup.com/pro/resist/" target="blank">Meetup's #Resist Group Finder</a><br>Hundreds of groups are organizing through Meetup.com. Find one close to you!
 * <a href="https://www.womensmarch.com/100/" target="blank">Women's March 10 Actions in 100 Days</a><br>10 actions to follow the nation-wide protests.
+* <a href="https://democraticredistricting.com/about/" target="blank">National Democratic Redistricting Committee</a><br>STOP GOP Gerrymandering!
 * <a href="https://activatedmajority.tumblr.com/" target="blank">Activated Majority</a><br>From Rhize, a platform that connects people across the country with ongoing and emerging opportunities to take action and build power
 
 
@@ -47,15 +53,16 @@ In general, here's a brief list of things you can do that actually make a differ
 * <b>Call your Members of Congress</b> - This actually works. Congressional staffers tally up the calls they get and convey those tallies to your Senators & representatives. For every call you don't make, you can be sure there's someone who disagrees with you that is making that call. Check out 5calls below for an easy way to get started.
 * <b>Attend a community meeting near you</b> - meet face to face with engaged citizens that live around you. It'll be much more fulfilling than just trying to get more social media likes. See Step 1 above for links that can help you find a group near you.
 * <b>Join a protest</b> - Protests and marches aren't necessarily about changing the minds of our Administration. The biggest benefit is a showing of solidarity to everyone affected. It can also show the world that we don't agree with our President and his policies.
-* <b>Have a conversation with a Trump supporter</B> - The point here is not to influence, but to understand and connect. You're not going to agree, and you will get angry, but ignoring the half of the country that voted for him won't work either. I'm not saying make best friends with an alt-right neo-nazi, but maybe make amends with that person who was simply more afraid of Hillary than she was of Trump.
+* <b>Have a conversation with a Trump supporter</B> - The point here is not to influence, but to understand and connect. You're not going to agree, and you will get angry, but ignoring the half of the country that voted for him won't work either. I'm not saying make best friends with an alt-right neo-nazi, but maybe make amends with that person who was simply more afraid of Hillary than she was of Trump. <br><b>Remember: you can still be angry without holding a grudge.</b>
+
 * <b>Get Local</b> - Get involved in your local community around causes you care about. As policy and funding starts affecting our local organizations, it's going to be important for all of us to get involved at the ground level. There is a lot you can do to protect your own community from Trump's destructive federal policies. One great first step is reaching out to your State-level Representative & Senator.
 
-### Remember: you can still be angry without holding a grudge.
 
 Below are some resources to help figure out what to act on and how.
 
 * <a href="https://jenniferhofmann.com/home/weekly-action-checklist-democrats-independents-republicans-conscience/" target="blank">Jen Hofmann's Weekly Action Guide</a><br>Jen Hofmann writes blogs and helps small businesses with social media. She also curates a fantastic weekly email that walks over 60,000 subscribers through everything we can do to act on the issues we care about. <br><br><b>Join Jen's email list and each week, pick one action and do it.</b><br><br> <i><a href="https://docs.google.com/document/d/13vwydGGW9jixSsf3f7jvSuWnc67tsnI1jgIo6Homwbk/preview" target="blank">Here</a> is the checklist for the week of February 12, 2017.</i><br><br>
-* <a href="https://5calls.org" target="blank">5Calls</a><br>There is no better tool to help you call your Members of Congress. Visit the website, put in your zip code, and pick your issue. It gives you the number you need to call, the message, and moves you onto the next. You can do one of these calls each week.<br><br><b>Visit 5calls.org each week and pick one issue to call your Members of Congress about.</b>
+* <a href="https://5calls.org" target="blank">5Calls</a><br>There is no better tool to help you call your Members of Congress. Visit the website, put in your zip code, and pick your issue. It gives you the number you need to call, the message, and moves you onto the next. You can do one of these calls each week.<br><br><b>Visit 5calls.org each week and pick one issue to call your Members of Congress about.</b><br><br>
+* <a href="https://swingleft.org/" target="blank">Swing Left: Take Back the House</a><br>Find your closest Swing District and help swing it away from the GOP.
 
 
 # STEP 3: GET OFF SOCIAL MEDIA.
@@ -117,7 +124,7 @@ Here are some things that bring much needed levity to these heavy times:
 
 # STEP 8: DONATE.
 
-The ACLU is just one place you can donate your money. They do great work, but don't forget about other organizations who may be getting overlooked. The ACLU has already <a href="http://money.cnn.com/2017/01/30/news/aclu-online-donations/" target="blank">raised over $25M</a> this year.
+The ACLU is just one place you can donate your money. They do great work, but don't forget about other organizations who may be getting overlooked. The ACLU has already <a href="http://money.cnn.com/2017/01/30/news/aclu-online-donations/" target="blank">raised over $25M</a> this year. They also <a href="http://www.npr.org/sections/thetwo-way/2017/02/15/515412800/senate-blocks-obama-era-rule-tightening-checks-on-mentally-ill-gun-buyers" target="blank">may support legislation</a> that you don't.
 
 * <a href="http://www.immdefense.org/donate/" target="blank">Immigrant Defense Fund</a>
 * <a href="https://www.nilc.org/" target="blank">National Immigrant Law Center</a>
