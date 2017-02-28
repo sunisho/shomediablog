@@ -2,9 +2,9 @@
 tags = ["Trump", "Activism"
 ]
 thumbnail = "/blog/img/stop-trump.png"
-title = "Stopping Trump: A Primer (Updated Feb 20)"
+title = "Stopping Trump: A Primer (Updated Feb 27)"
 description = ""
-date = "2017-02-20T20:57:00-08:00"
+date = "2017-02-27T20:57:00-08:00"
 categories = ["Politics"
 ]
 draft = "false"
@@ -12,6 +12,7 @@ draft = "false"
 
 #### ----
 #### <i>Update Log:</i>
+<i>February 27th: Added IssueVoter, pocket-sized Action Guide, good reads</i>
 <i>February 20th: Added Flippable, Blue Feed/Red Feed, Emily's List, and others</i>
 <br><i>February 16th: Updated with Swing Left & NDRC - Thanks Nate F!</i>
 #### ----
@@ -53,6 +54,8 @@ Below are groups & email lists that will keep you informed on how you can help.
 
 <b>Commit to one thing a week.</B><br><br>Don't worry about doing it all, just do one thing. Big or small, one thing is a great place to start.
 
+My favorite thing: Using <a href="https://5calls.org">5Calls</a> to make phone calls. See below for more information.
+
 In general, here's a brief list of things you can do that actually make a difference:
 
 * <b>Call your Members of Congress</b> - This actually works. Congressional staffers tally up the calls they get and convey those tallies to your Senators & representatives. For every call you don't make, you can be sure there's someone who disagrees with you that is making that call. Check out 5calls below for an easy way to get started.
@@ -65,15 +68,14 @@ In general, here's a brief list of things you can do that actually make a differ
 
 Below are some resources to help figure out what to act on and how.
 
-* <a href="https://jenniferhofmann.com/home/weekly-action-checklist-democrats-independents-republicans-conscience/" target="blank">Jen Hofmann's Weekly Action Guide</a><br>Jen Hofmann writes blogs and helps small businesses with social media. She also curates a fantastic weekly email that walks over 60,000 subscribers through everything we can do to act on the issues we care about. <br><br><b>Join Jen's email list and each week, pick one action and do it.</b><br><br> <i><a href="https://docs.google.com/document/d/1ce_E6UVC49tdG46iavx-6r6RXZ3hooIorhCKgaw1lsM/preview?usp=sharing&sle=true" target="blank">Here</a> is the checklist for the week of February 19, 2017.</i><br><br>
 * <a href="https://5calls.org" target="blank">5Calls</a><br>There is no better tool to help you call your Members of Congress. Visit the website, put in your zip code, and pick your issue. It gives you the number you need to call, the message, and moves you onto the next. You can do one of these calls each week.<br><br><b>Visit 5calls.org each week and pick one issue to call your Members of Congress about.</b>
-
+* <a href="https://jenniferhofmann.com/home/weekly-action-checklist-democrats-independents-republicans-conscience/" target="blank">Jen Hofmann's Weekly Action Guide</a><br>Jen Hofmann writes blogs and helps small businesses with social media. She also curates a fantastic weekly email that walks over 60,000 subscribers through everything we can do to act on the issues we care about. <br><br><b>Join Jen's email list and each week, pick one action and do it.</b><br><br> <i><a href="https://docs.google.com/document/d/1nwEOC0VHatbLvvMoQV-L_jVv_ne_nl1YSE4CUXiKZTk/preview" target="blank">Here</a> is the checklist for the week of February 26, 2017.</i><br><i><a href="https://drive.google.com/file/d/0Bw-N0ib40Qm7NktkalNjX2R5WWc/view" target="blank">Here</a> is a pocket action guide you can print and fill out and keep with you at all times.</i><br><br>
 
 # STEP 3: GET OFF SOCIAL MEDIA.
 
 There are other ways to connect with others that want to take a stand. There are other ways to stay informed. Social Media is more detrimental than productive these days. It's depressing, and the fleeting satisfaction you get when you see someone else post your thoughts, or when you yourself are echoed by your social chamber, doesn't really help in the long run.
 
-#### What you see on Facebook is <a href="http://graphics.wsj.com/blue-feed-red-feed/" target="blank">what you want to see</a>, and nothing more.
+#### What you see on Facebook is only what <a href="http://graphics.wsj.com/blue-feed-red-feed/" target="blank">Facebook thinks you want to see</a>, and nothing more.
 
 I use these platforms for specific reasons, but try to stay off them otherwise:
 
@@ -98,6 +100,7 @@ Below are some resources that will help you gain a foundational understanding of
 In addition to the above (Jen Hoffman, Indivisible, etc), here are some resources to help curate the news for you, so you don't have to waste hours scrolling through Facebook or watching CNN:
 
 * <a href="https://whatthefuckjusthappenedtoday.com/" target="blank">What The Fuck Just Happened Today</a><br>A daily newsletter that recaps the day's current events so you never miss a beat.
+* <a href="https://issuevoter.org/">Issue Voter</a><br>Allows you to stay up to date on bills being voted on by Congress and voice your opinion.
 * <a href="https://projects.fivethirtyeight.com/congress-trump-score/votes/" target="blank">FiveThirtyEight's Congress Tracker</a><br>Even though they failed miserably at predicting the election, FiveThirtyEight does have a great resource on keeping track of your Members of Congress.
 
 
@@ -108,6 +111,8 @@ As my friend Sergio once said:
 ### "That's how fascists win: they wear you down until you are too tired to fight."
 
 Don't let that happen. What we do does make a difference. What we've done already has. And what we plan to do will change things for the better.
+
+<b>A Must Read</b>: <a href="https://jenniferhofmann.com/resisting-makes-weary/" target="blank">When Resisting Makes You Weary</a>
 
 Below are some signs of progress:
 
@@ -126,7 +131,7 @@ Here are some things that bring much needed levity to these heavy times:
 
 * <a href="https://www.facebook.com/SafeTravelButton/videos/250861052037599/" target="blank">Safe Travel Button</a> - This is actually for sale. And worth it.
 * <a href="http://nypost.com/2017/02/07/people-cant-stop-trolling-sean-spicer-on-venmo/" target="blank">Sean Spicer Getting Trolled On Venmo</a>
-* <a8/12 href="https://www.nbc.com/saturday-night-live/cast/alec-baldwin-57921/impersonation/donald-trump-285097" target="blank">SNL Does Trump</a>
+* <a href="https://www.nbc.com/saturday-night-live/cast/alec-baldwin-57921/impersonation/donald-trump-285097" target="blank">SNL Does Trump</a>
 
 # STEP 8: DONATE.
 
