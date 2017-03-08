@@ -3,9 +3,9 @@ title = "16 Pounds: Quitting My Job and Traveling the World"
 draft = false
 date = "2016-12-19T16:13:39-05:00"
 thumbnail = "img/mapSFtoHanoi.png"
-categories = [ "Life Updates"
+categories = [ "Life Updates", "Travel"
 ]
-tags = ["Travel", "SE Asia", "Europe"
+tags = ["SE Asia", "Europe"
 ]
 +++
 

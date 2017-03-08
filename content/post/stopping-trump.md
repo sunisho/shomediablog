@@ -2,18 +2,19 @@
 tags = ["Trump", "Activism"
 ]
 thumbnail = "/blog/img/stop-trump.png"
-title = "Stopping Trump: A Primer (Updated Feb 27)"
+title = "Stopping Trump: A Primer (Updated March 8th)"
 description = ""
-date = "2017-02-27T20:57:00-08:00"
-categories = ["Politics"
+date = "2017-03-08T08:00:00-08:00"
+categories = ["Politics", "Life Hacks"
 ]
 draft = "false"
 +++
 
 #### ----
 #### <i>Update Log:</i>
-<i>February 27th: Added IssueVoter, pocket-sized Action Guide, good reads</i>
-<i>February 20th: Added Flippable, Blue Feed/Red Feed, Emily's List, and others</i>
+<i>March 6th: Added Wall of Us, Town Hall Project, WTFJHT's First 45 Day Guide</i>
+<br><i>February 27th: Added IssueVoter, pocket-sized Action Guide, good reads</i>
+<br><i>February 20th: Added Flippable, Blue Feed/Red Feed, Emily's List, and others</i>
 <br><i>February 16th: Updated with Swing Left & NDRC - Thanks Nate F!</i>
 #### ----
 
@@ -46,6 +47,7 @@ Below are groups & email lists that will keep you informed on how you can help.
 * <a href="https://swingleft.org/" target="blank">Swing Left: Take Back the House</a> <i>(Federal Elections)</i><br>Find your closest Swing District and help swing it away from the GOP.
 * <a href="https://www.flippable.org/" target="blank">Flippable</a> <i>(Governor & State Legislator Elections)</i><br>Turn states blue from the ground up.
 * <a href="https://democraticredistricting.com/about/" target="blank">National Democratic Redistricting Committee</a><br>Stop GOP gerrymandering!
+* <a href="https://www.muslimadvocates.org/" target="blank">Muslim Advocates</a><br>Promoting Freedom and Justice for All
 * <a href="https://activatedmajority.tumblr.com/" target="blank">Activated Majority</a><br>From Rhize, a platform that connects people across the country with ongoing and emerging opportunities to take action and build power.
 
 
@@ -64,12 +66,15 @@ In general, here's a brief list of things you can do that actually make a differ
 * <b>Have a conversation with a Trump supporter</B> - The point here is not to influence, but to understand and connect. You're not going to agree, and you will get angry, but ignoring the half of the country that voted for him won't work either. I'm not saying make best friends with an alt-right neo-nazi, but maybe make amends with that person who was simply more afraid of Hillary than she was of Trump. <br><br><b>Remember: you can still be angry without holding a grudge.</b>
 
 * <b>Get Local</b> - Get involved in your local community around causes you care about. As policy and funding starts affecting our local organizations, it's going to be important for all of us to get involved at the ground level. There is a lot you can do to protect your own community from Trump's destructive federal policies. One great first step is reaching out to your State-level Representative & Senator.
-
+<br><b>PRO-TIP</b>: The <a href="https://townhallproject.com/" target="blank">Town Hall Project</a> can help you find a town hall being organized around you.
+<br><b>SAN FRANCISCO RESIDENTS</b>: A list of <a href="https://docs.google.com/spreadsheets/d/1JtRwsZLnrH2ZxDAkxaqyWEfA0glpoxEDsZvO8rY6yQk/edit#gid=0" target="blank">SF local organizations</a> that you can get involved with.
 
 Below are some resources to help figure out what to act on and how.
 
-* <a href="https://5calls.org" target="blank">5Calls</a><br>There is no better tool to help you call your Members of Congress. Visit the website, put in your zip code, and pick your issue. It gives you the number you need to call, the message, and moves you onto the next. You can do one of these calls each week.<br><br><b>Visit 5calls.org each week and pick one issue to call your Members of Congress about.</b>
-* <a href="https://jenniferhofmann.com/home/weekly-action-checklist-democrats-independents-republicans-conscience/" target="blank">Jen Hofmann's Weekly Action Guide</a><br>Jen Hofmann writes blogs and helps small businesses with social media. She also curates a fantastic weekly email that walks over 60,000 subscribers through everything we can do to act on the issues we care about. <br><br><b>Join Jen's email list and each week, pick one action and do it.</b><br><br> <i><a href="https://docs.google.com/document/d/1nwEOC0VHatbLvvMoQV-L_jVv_ne_nl1YSE4CUXiKZTk/preview" target="blank">Here</a> is the checklist for the week of February 26, 2017.</i><br><i><a href="https://drive.google.com/file/d/0Bw-N0ib40Qm7NktkalNjX2R5WWc/view" target="blank">Here</a> is a pocket action guide you can print and fill out and keep with you at all times.</i><br><br>
+* <a href="https://5calls.org" target="blank">5Calls</a><br>There is no better tool to help you call your Members of Congress. Visit the website, put in your zip code, and pick your issue. It gives you the number you need to call, the message, and moves you onto the next. You can do one of these calls each week.<br><br><b>Visit 5calls.org each week and pick one issue to call your Members of Congress about.</b><br><br>
+* <a href="https://jenniferhofmann.com/home/weekly-action-checklist-democrats-independents-republicans-conscience/" target="blank">Jen Hofmann's Weekly Action Guide</a><br>Jen Hofmann writes blogs and helps small businesses with social media. She also curates a fantastic weekly email that walks over 60,000 subscribers through everything we can do to act on the issues we care about. <br><br><b>Join Jen's email list and each week, pick one action and do it.</b><br><br> <i><a href="https://docs.google.com/document/d/15p97NYoLKIYuqe1Kp3Syo5JwkoWnF9Vk83FNMZZ2LeQ/edit?usp=sharing" target="blank">Here</a> is the checklist for the week of March 5, 2017.</i><br><i><a href="https://drive.google.com/file/d/0Bw-N0ib40Qm7NktkalNjX2R5WWc/view" target="blank">Here</a> is a pocket action guide you can print and fill out and keep with you at all times.</i><br><br>
+* <a href="https://www.wall-of-us.org/" target="blank">Wall of Us</a><br>4 Actions Each Week<br><br><b>Sign up to Wall of Us and commit to doing one of the 4.</b>
+
 
 # STEP 3: GET OFF SOCIAL MEDIA.
 
@@ -93,13 +98,14 @@ Below are some resources that will help you gain a foundational understanding of
 * <a href="https://www.facebook.com/beth.urie/posts/1397279370324677">Don't Email. Don't Sign Petitions.</a><br>Call or meet in person. More thoughts on how to effectively lobby your Members of Congress.
 * <a href="http://www.attn.com/stories/12951/former-staffer-explains-how-call-your-representatives">Former Staffer Explains How To Call</a><br>Key takeaways: Know your message before going in, and be patient and kind.
 * <a href="https://www.nytimes.com/2017/02/18/opinion/sunday/how-can-we-get-rid-of-trump.html" target="blank">Nicholas Kristof on the realities of Impeachment</a>
+* <a href="http://www.politico.com/story/2016/12/donald-trump-congress-republicans-232800" target="blank">The pressure GOP lawmakers feel to not resist Trump</a>
 
 
 # STEP 5: STAY INFORMED.
 
 In addition to the above (Jen Hoffman, Indivisible, etc), here are some resources to help curate the news for you, so you don't have to waste hours scrolling through Facebook or watching CNN:
 
-* <a href="https://whatthefuckjusthappenedtoday.com/" target="blank">What The Fuck Just Happened Today</a><br>A daily newsletter that recaps the day's current events so you never miss a beat.
+* <a href="https://whatthefuckjusthappenedtoday.com/" target="blank">What The Fuck Just Happened Today</a><br>A daily newsletter that recaps the day's current events so you never miss a beat.<br><b>Also: <a href="https://whatthefuckjusthappenedtoday.com/45-for-45/" target="blank">The Normal Person's Guide</a> to Trump's First 45 Days</b>
 * <a href="https://issuevoter.org/">Issue Voter</a><br>Allows you to stay up to date on bills being voted on by Congress and voice your opinion.
 * <a href="https://projects.fivethirtyeight.com/congress-trump-score/votes/" target="blank">FiveThirtyEight's Congress Tracker</a><br>Even though they failed miserably at predicting the election, FiveThirtyEight does have a great resource on keeping track of your Members of Congress.
 

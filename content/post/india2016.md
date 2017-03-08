@@ -1,9 +1,9 @@
 +++
 description = "A recap of my sixth trip to India."
 date = "2016-12-22T20:34:12-05:00"
-categories = [ "Life Updates"
+categories = [ "Life Updates", "Travel"
 ]
-tags = ["India", "Travel", "Weddings"
+tags = ["India", "Weddings"
 ]
 thumbnail = "/blog/img/nikish.jpg"
 title = "Mera Bharat Mahan: My 2016 Visit to India"
